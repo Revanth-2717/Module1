@@ -15,7 +15,7 @@ print("You entered:", user_input)
 ````
 
 ## Output
-<img width="1031" height="468" alt="Screenshot 2025-10-18 221332" src="https://github.com/user-attachments/assets/28300695-8cf0-42a6-9168-c2bcdeddddab" />
+![image](https://github.com/user-attachments/assets/c789a9f2-3038-471c-b18e-eb5168789256)
 
 ## Result
 The Python program to read a string from the user and then print it is executed successfully.
